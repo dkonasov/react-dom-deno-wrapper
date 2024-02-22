@@ -1,0 +1,26 @@
+{
+  "name": "react-dom-deno-wrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkonasov/react-dom-deno-wrapper.git"
+  },
+  "keywords": [],
+  "author": "Dmitrii Konasov <d.konasov@yandex.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dkonasov/react-dom-deno-wrapper/issues"
+  },
+  "homepage": "https://github.com/dkonasov/react-dom-deno-wrapper#readme",
+  "dependencies": {
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "react": "^18.2.0"
+  }
+}
