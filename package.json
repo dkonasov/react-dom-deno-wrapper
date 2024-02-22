@@ -1,5 +1,5 @@
 {
-  "name": "react-dom-deno-wrapper",
+  "name": "@dkonasov/react-dom-deno-wrapper",
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
